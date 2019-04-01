@@ -1,8 +1,8 @@
 # Coding_Challenge
-here are my source code for Option 1: web coding challenge with Java
+Here are my source code for Option 1: web coding challenge with Java
 NearbyShops
 What is it?
-This is your project! It's a sample, deployable Maven 3 project to help you get your foot in the door developing with Java EE 6 on JBoss AS 7. This project is setup to allow you to create a compliant Java EE 6 application using JSF 2.0, CDI 1.0, EJB 3.1, JPA 2.0 and Bean Validation 1.0. It includes a persistence unit and some sample persistence and transaction code to help you get your feet wet with database access in enterprise Java.
+This is my project! It's a sample, deployable Maven 3 project to help me get your foot in the door developing with Java EE 6 on JBoss AS 7. This project is setup to allow me to create a compliant Java EE 6 application using struts2, tiles JSF 2.0, CDI 1.0, EJB 3.1, JPA 2.0 and Bean Validation 1.0. It includes a persistence unit and some sample persistence and transaction code to help me get my feet wet with database access in enterprise Java.
 
 System requirements
 All you need to build this project is Java 6.0 (Java SDK 1.6) or better, Maven 3.0 or better.
@@ -53,3 +53,4 @@ If you want to be able to debug into the source code or look at the Javadocs of 
 
 mvn dependency:sources
 mvn dependency:resolve -Dclassifier=javadoc
+
